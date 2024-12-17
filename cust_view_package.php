@@ -156,7 +156,7 @@ if (isset($_GET['PACKAGE_ID']) && is_numeric($_GET['PACKAGE_ID'])) {
 <body>
     <div class="header-top">
         <ul>
-            <li><a href="http://localhost/week8/homepage/">HOME</a></li>
+            <li><a href="homepage.html">HOME</a></li>
             
         </ul>
     </div>
